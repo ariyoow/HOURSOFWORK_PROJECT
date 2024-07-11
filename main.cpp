@@ -1,4 +1,5 @@
 // Author : arian
+// 402-1 semester in yazd university
 
 #include <iostream>
 
